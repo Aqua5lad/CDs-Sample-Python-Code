@@ -1,6 +1,6 @@
 # CDs-Sample-Python-Code
 
-My first repository for the GMIT Data Analytics course - samples of code I've got working. 
+Colm's repository for the GMIT Data Analytics course - samples of code that I've got working. 
 
 ## Purpose of this Repository
 The purpose of this repository is to collate samples of python code which can be reused, either directly, or as a guide.
