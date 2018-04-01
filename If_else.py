@@ -1,5 +1,5 @@
 # Adapted from : https://docs.python.org/3/tutorial/controlflow.html
-# by Colm Doherty
+# by Colm Doherty in Feb 2018 and updated on Apr 1st 2018
 # Purpose is to understand if, elif and else statements 
 
 x = int(input("Please enter an integer: "))
