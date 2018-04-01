@@ -1,5 +1,6 @@
 # FizzBuzz.py is a program to learn WHILE, IF, ELSE, ELIF, and % modulo (the remainder after dividing)
 # It was written by Ian McLoughlin on 2018-02-01
+# and is used by Colm for testing
 # FizzBuzz: https://en.wikipedia.org/wiki/Fizz_buzz
 # note the logic of if,else, then(represented by :) 
 
